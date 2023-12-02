@@ -1,5 +1,5 @@
 const config = {
-  siteUrl: 'https://draft.adachinoippo.net',
+  siteUrl: 'https://adachinoippo.net',
   copyright: {
     year: 2023,
     author: '足立の一歩準備会'
